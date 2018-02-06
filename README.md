@@ -1,2 +1,4 @@
 # Anime-Girls-With-ProgrammingBooks
-Anime girls with programming books
+### Collection of anime girls with programming books
+
+Feel free to contribute! and make a PR, just check for duplicates and add into the right folder
